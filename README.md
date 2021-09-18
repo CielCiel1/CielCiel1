@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1&show_icons=true&theme=radical)](https://github.com/CielCiel1/github-readme-stats)
 
-
+![Facebook](https://img.shields.io/badge/Facebook-Tran%20Trang-blue)
 
 
