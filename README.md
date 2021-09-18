@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CielCiel1&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CielCiel1&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
