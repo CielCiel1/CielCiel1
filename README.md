@@ -25,8 +25,8 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CielCiel1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CielCiel1&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CielCiel1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CielCiel1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
