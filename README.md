@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🌐[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ciel._.tr/)](https://www.instagram.com/ciel._.tr/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/cieltrantrang/)](https://www.facebook.com/cieltrantrang/)[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huyentrang201ciel@gmail.com)](mailto:huyentrang201ciel@gmail.com)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CielCiel1&theme=algolia" alt="CielCiel1"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CielCiel1&theme=radical" alt="CielCiel1"  /></p>
 
 <hr>
 <p align="center">
