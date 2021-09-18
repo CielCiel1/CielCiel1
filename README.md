@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Age](https://img.shields.io/badge/Age-20-informational) ![From](https://img.shields.io/badge/From-HaTinh-informational)  ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
+🌱![Age](https://img.shields.io/badge/Age-20-informational) ![From](https://img.shields.io/badge/From-HaTinh-informational)  ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
 
-[![Facebook](https://img.shields.io/badge/Facebook-__-informational)](https://www.facebook.com/cieltrantrang/) [![Instagram](https://img.shields.io/badge/Instagram-__-informational)](https://www.instagram.com/ciel._.tr/)
+👯[![Facebook](https://img.shields.io/badge/Facebook-__-informational)](https://www.facebook.com/cieltrantrang/) [![Instagram](https://img.shields.io/badge/Instagram-__-informational)](https://www.instagram.com/ciel._.tr/)
 
 ![Ciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical)
 
