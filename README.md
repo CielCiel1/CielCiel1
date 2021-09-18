@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Ciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CielCiel1&hide=contribs,prs)
+
 [![Ciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CielCiel1)](https://github.com/CielCiel1/github-readme-stats)
