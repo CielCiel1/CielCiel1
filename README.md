@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/CielCiel1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical"/>
-  <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1)](https://github.com/CielCiel1/github-readme-stats)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1)"/>
 </a>
 </p>
 
