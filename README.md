@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![Age](https://img.shields.io/badge/Age-20-informational) ![From](https://img.shields.io/badge/From-HaTinh-informational)  ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
 
-[![Facebook](https://img.shields.io/badge/Facebook-Tran%20Trang-blue)](https://www.facebook.com/cieltrantrang/) [![Instagram](https://img.shields.io/badge/Instagram-__-informational)](https://www.instagram.com/ciel._.tr/)
+[![Facebook](https://img.shields.io/badge/Facebook-__-informational)](https://www.facebook.com/cieltrantrang/) [![Instagram](https://img.shields.io/badge/Instagram-__-informational)](https://www.instagram.com/ciel._.tr/)
 
 
