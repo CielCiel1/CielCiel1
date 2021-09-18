@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1&show_icons=true&theme=radical)](https://github.com/CielCiel1/github-readme-stats)
 
+![Age](https://img.shields.io/badge/Age-20-informational) ![From](https://img.shields.io/badge/From-HaTinh-informational)  ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
 [![Facebook](https://img.shields.io/badge/Facebook-Tran%20Trang-blue)](https://www.facebook.com/cieltrantrang/) [![Instagram](https://img.shields.io/badge/Instagram-Tran%20Trang-red)](https://www.instagram.com/ciel._.tr/)
 
 
