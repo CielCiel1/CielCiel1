@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ![Ciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1&exclude_repo=github-readme-stats,CielCiel1.github.io)](https://github.com/CielCiel1/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CielCiel1&repo=github-readme-stats)](https://github.com/CielCiel1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1)](https://github.com/CielCiel1/github-readme-stats)
 
+[![Ciel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CielCiel1)](https://github.com/CielCiel1/github-readme-stats)
 
 
 
