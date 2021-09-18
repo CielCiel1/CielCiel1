@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 
 👯[![Facebook](https://img.shields.io/badge/Facebook-__-informational)](https://www.facebook.com/cieltrantrang/) [![Instagram](https://img.shields.io/badge/Instagram-__-informational)](https://www.instagram.com/ciel._.tr/)
 
-![Ciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1&show_icons=true&theme=radical)](https://github.com/CielCiel1/github-readme-stats)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CielCiel1&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 
 
