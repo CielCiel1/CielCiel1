@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 
  ![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)  ![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge) 
 <p align="center">
- ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)  ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+ <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+ </a>
+ </p>
 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CielCiel1&theme=radical" alt="CielCiel1"  /></p>
 -->
