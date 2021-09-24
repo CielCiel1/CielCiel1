@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge"/>
  </a>
  </p>
-<p align="center">
+<p align="left">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <hr>
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p align="center">
+<p align="left">
 <a href="https://github.com/CielCiel1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CielCiel1&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CielCiel1&show_icons=true&theme=radical"/>
