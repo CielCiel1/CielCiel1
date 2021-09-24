@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 💻![Age](https://img.shields.io/badge/Age-20-informational) ![From](https://img.shields.io/badge/From-HaTinh-informational)  ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
 <hr>
+
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> Contact </b></i></p>
  
 🌐[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ciel._.tr/)](https://www.instagram.com/ciel._.tr/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/cieltrantrang/)](https://www.facebook.com/cieltrantrang/)
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huyentrang201ciel@gmail.com)](mailto:huyentrang201ciel@gmail.com)-->
  <hr>
+ 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> Currently Learning </b></i></p>
 
  ![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)  ![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge) 
