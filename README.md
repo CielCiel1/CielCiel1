@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> Contact </b></i></p>
  <p align="center">
- <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ciel._.tr/",alt="https://www.instagram.com/ciel._.tr/"/>
- <img src="https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge"/>  
- <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge"/>
- </a>
- </p>
+
  🌐[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ciel._.tr/)](https://www.instagram.com/ciel._.tr/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/cieltrantrang/)](https://www.facebook.com/cieltrantrang/)
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huyentrang201ciel@gmail.com)](mailto:huyentrang201ciel@gmail.com)-->
  
