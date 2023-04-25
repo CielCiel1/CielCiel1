@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> About me </b></i></p>
 
-![Age](https://img.shields.io/badge/Age-21-informational) ![From](https://img.shields.io/badge/From-HaTinh-informational)  ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
+![Age](https://img.shields.io/badge/Age-22-informational) ![From](https://img.shields.io/badge/From-HaTinh-informational)  ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> Contact </b></i></p>
  <p align="center">
